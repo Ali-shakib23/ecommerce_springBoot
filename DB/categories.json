@@ -1,0 +1,17 @@
+[ {
+  "categoryId" : "122ec424-bff5-4272-ac48-0fd0d5798b67",
+  "categoryName" : "Laptop",
+  "timStamp" : "2025-11-13T11:42:05.129611200Z"
+}, {
+  "categoryId" : "8ce9fed2-0c47-441a-9650-7d586d2810b6",
+  "categoryName" : "Mobile",
+  "timStamp" : "2025-11-13T11:42:05.130610800Z"
+}, {
+  "categoryId" : "a9b73fe7-9ed4-4c3c-8c3b-ff05e71ce4ce",
+  "categoryName" : "Books",
+  "timStamp" : "2025-11-13T11:42:05.130610800Z"
+}, {
+  "categoryId" : "4316b773-f347-4c8c-88d1-a40611d6f1fd",
+  "categoryName" : "Health Care",
+  "timStamp" : "2025-11-13T11:42:05.130610800Z"
+} ]
